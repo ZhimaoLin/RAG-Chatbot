@@ -1,12 +1,10 @@
 from langchain.embeddings import OpenAIEmbeddings   
 from langchain.document_loaders import PyPDFLoader
-from langchain.text_splitter import CharacterTextSplitter, NLTKTextSplitter, TokenTextSplitter, SpacyTextSplitter, SentenceTransformersTokenTextSplitter
+from langchain.text_splitter import TokenTextSplitter
 
 import pinecone
-import itertools
 import time
 import uuid
-from tqdm.autonotebook import tqdm
 
 from config import OPENAI_API_KEY, PINECONE_API_KEY, PINECONE_ENVIRONMENT, PINECONE_INDEX_NAME, EMBEDDING_MODEL, SPLITTER_CHUNK_SIZE, SPLITTER_CHUNK_OVERLAP, UPLOAD_BATCH_SIZE
 
@@ -87,6 +85,7 @@ for file_path in PAPER_LIST:
     # Due to OpenAPI rate limitation, I have to embed multiple chunks at the same time
     paper_embedding = embedding_model.embed_documents(total_sentences)
 
+    # Reformat the vectors
     to_upsert = []
     for i, sentence_vector in enumerate(paper_embedding):
         to_upsert.append({
@@ -99,6 +98,7 @@ for file_path in PAPER_LIST:
                         }
         })
 
+    # Upload the vectors in baches
     batch_size = UPLOAD_BATCH_SIZE
     n = len(to_upsert)
     print(f"Total number: {n}")
