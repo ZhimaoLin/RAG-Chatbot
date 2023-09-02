@@ -9,8 +9,7 @@ import uuid
 from config import OPENAI_API_KEY, PINECONE_API_KEY, PINECONE_ENVIRONMENT, PINECONE_INDEX_NAME, EMBEDDING_MODEL, SPLITTER_CHUNK_SIZE, SPLITTER_CHUNK_OVERLAP, UPLOAD_BATCH_SIZE
 
 # Paper list
-PAPER_LIST = ["data/paper1.pdf", "data/paper2.pdf", "data/paper3.pdf", "data/test.pdf", "data/mypaper.pdf"]
-# PAPER_LIST = []
+PAPER_LIST = ["data/paper1.pdf", "data/paper2.pdf", "data/paper3.pdf"]
 
 
 # Helper functions
