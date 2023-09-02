@@ -1,14 +1,14 @@
 from langchain.embeddings import OpenAIEmbeddings   
 from langchain.chat_models import ChatOpenAI
 from langchain.vectorstores import Pinecone
-from langchain.chains import RetrievalQA, ConversationalRetrievalChain
-from langchain.memory import ConversationBufferWindowMemory, ConversationSummaryMemory
+from langchain.chains import ConversationalRetrievalChain
+from langchain.memory import ConversationSummaryMemory
 from langchain.retrievers import WikipediaRetriever
 
 import pinecone
 import time
 
-from config import OPENAI_API_KEY, PINECONE_API_KEY, PINECONE_ENVIRONMENT, PINECONE_INDEX_NAME, EMBEDDING_MODEL, SPLITTER_CHUNK_SIZE, SPLITTER_CHUNK_OVERLAP
+from config import OPENAI_API_KEY, PINECONE_API_KEY, PINECONE_ENVIRONMENT, PINECONE_INDEX_NAME, EMBEDDING_MODEL
 
 
 
@@ -53,8 +53,6 @@ def print_answer(result):
     print("="*30)
     print()
     
-    
-    
 
 
 def if_existed(query, vectorstore):
@@ -71,6 +69,8 @@ def if_existed(query, vectorstore):
     
     return is_existed
 
+
+
 def search(query, vector_chain, vectorstore, wiki_chain):
     if if_existed(query, vectorstore):
         res = vector_chain({"question": query})
@@ -83,7 +83,6 @@ def search(query, vector_chain, vectorstore, wiki_chain):
         print_wiki_source(res)
 
     
-
 
 # Initialize OpenAI
 llm = ChatOpenAI(openai_api_key=OPENAI_API_KEY)
