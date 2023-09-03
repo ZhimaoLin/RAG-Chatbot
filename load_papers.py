@@ -115,7 +115,6 @@ for file_path in PAPER_LIST:
 
 # Auto testing
 query_list = [
-    "Why the dot products get large in transformer?",
     "How to treat patient with ACHD?",
     "How to diagnose Resistant Hypertension?",
     "How to reduce the cardiorenal risk?"
