@@ -64,6 +64,8 @@ def if_existed(query, vectorstore):
             fetch_k=20,
             lambda_mult=0.5
         )
+        if len(res) == 0:
+            is_existed = False
     except:
         is_existed = False
     
