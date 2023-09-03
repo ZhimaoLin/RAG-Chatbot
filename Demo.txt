@@ -1,0 +1,369 @@
+You: What is RHT?
+==============================
+          Question
+==============================
+What is RHT?
+==============================
+
+==============================
+          Answer
+==============================
+RHT stands for Resistant Hypertension.
+==============================
+
+============================================================
+Source [1]       File: [data/paper3.pdf]         Page: [3]
+============================================================
+��nition of RHT, as illustrated in this analysis of the Na-
+tional Health and Nutrition Examination Survey, which re-ported a prevalence of 17.7% with the BP threshold of
+>140/90 and a higher estimate of 19.7% using the 2018
+
+============================================================
+
+============================================================
+Source [2]       File: [data/paper3.pdf]         Page: [9]
+============================================================
+Summary and Future Direction
+The present guidelines summarize the best available evi-
+dence to guide clinicians in the diagnosis and management ofRHT and represents 2 years of work by the RHT subgroup/
+section with the support of the HCGC. Some practical aspects
+for the clinician
+============================================================
+
+============================================================
+Source [3]       File: [data/paper3.pdf]         Page: [3]
+============================================================
+ 3 medications, at optimal doses, including a diuretic.True RHT is diagnosed when causes of pseudoresistance and
+secondary causes are further excluded. Causes of pseudore-
+sistance, also termed “apparent treatment-resistant hyperten-
+sion ”include medication
+============================================================
+
+You: How to treat it?
+==============================
+          Question
+==============================
+How to treat it?
+==============================
+
+==============================
+          Answer
+==============================
+The treatment for Resistant Hypertension may involve several strategies. It is important to review and reiterate lifestyle measures such as sodium and potassium intake, stress management, exercise, and alcohol moderation. Improving adherence to prescribed medications is also crucial. Additionally, eliminating drugs and substances that may be causing higher blood pressure, such as calcineurin inhibitors, licorice, and erythropoietin, should be considered. Add-on pharmacologic therapy may also be recommended, but specific medications would depend on the individual's condition and should be determined by a healthcare professional.
+==============================
+
+============================================================
+Source [1]       File: [data/paper3.pdf]         Page: [7]
+============================================================
+ Hypertension Optimal Treatment; RHT, resistant hypertension.Hiremath et al. 631
+Resistant Hypertension Guideline
+============================================================
+
+============================================================
+Source [2]       File: [data/paper3.pdf]         Page: [5]
+============================================================
+apeutic strategies in resistant hypertension
+Review and reiterate lifestyle measures (sodium and potassium intake, stress,
+exercise, alcohol)
+Improve adherenceWhen possible, eliminate drugs and substances causing higher blood pressure
+(eg, calcineurin inhibitors, licorice, erythropoiet
+============================================================
+
+============================================================
+Source [3]       File: [data/paper3.pdf]         Page: [10]
+============================================================
+hypertensive agents in resistant hypertension: a system-atic review and meta-analysis. Eur J Prev Cardiol 2017;24:228-38 .
+30.Tataru AP, Barry AR. A systematic review of add-on pharmacologic
+therapy in the treatment of resistant hypertension
+============================================================
+
+You: Then, what is the cause of it? 
+==============================
+          Question
+==============================
+Then, what is the cause of it?
+==============================
+
+==============================
+          Answer
+==============================
+The cause of resistant hypertension can vary from person to person. Some possible causes include medication nonadherence, white coat effect (elevated blood pressure in a clinical setting), and treatment inertia (failure to adjust or change medication). Other causes can include underlying medical conditions or secondary hypertension. It is important to consult with a hypertension 
+specialist for a proper diagnosis and treatment plan.
+==============================
+
+============================================================
+Source [1]       File: [data/paper3.pdf]         Page: [4]
+============================================================
+resistant" hypertension
+Refer to HT specialistConsider referral to HT specialist
+R
+C
+Conﬁrm diagnosis of true resistant hypertension
+Figure 1. Diagnostic algorithm for a patient with suspected resistant hypertension. ABPM, ambulatory blood pressure monitoring; BP, blood
+============================================================
+
+============================================================
+Source [2]       File: [data/paper3.pdf]         Page: [3]
+============================================================
+apparent treatment-resistant hyperten-
+sion ”include medication nonadherence, white coat effect, and
+treatment inertia. Population studies mostly do not exclude
+causes of pseudoresistance, and the outcomes reported in theliterature thus relate to what is termed apparent treatment-resistant
+============================================================
+
+============================================================
+Source [3]       File: [data/paper3.pdf]         Page: [9]
+============================================================
+Canadian initiative. Can J Cardiol 2006;22:559-64 .
+12.Noubiap JJ, Nansseu JR, Nyaga UF, et al. Global prevalence of resistant
+hypertension: a meta-analysis of data from 3.2 million patients.
+============================================================
+
+You: What is the threshold of the RHT diagnose?    
+==============================
+          Question
+==============================
+What is the threshold of the RHT diagnose?
+==============================
+
+==============================
+          Answer
+==============================
+Based on the provided information, the blood pressure thresholds for diagnosing resistant hypertension are as follows:
+
+- For individuals with diabetes: Systolic blood pressure (BP) greater than 130 mm Hg or diastolic BP greater than 80 mm Hg.
+- For individuals at high cardiovascular risk: Systolic BP greater than 120 mm Hg.
+- For individuals of older age: The specific threshold is not mentioned in the given context.
+
+Please note that the thresholds may vary depending on factors such as comorbidities and individual patient characteristics.
+==============================
+
+============================================================
+Source [1]       File: [data/paper3.pdf]         Page: [6]
+============================================================
+ pressure.
+Table 6. Blood pressure thresholds for diagnosis of resistant
+hypertension
+Description BP threshold
+Diabetes Systolic BP >130 mm Hg or
+diastolic BP >80 mm Hg
+High cardiovascular risk Systolic BP >120 mm Hg
+Age older
+============================================================
+
+============================================================
+Source [2]       File: [data/paper3.pdf]         Page: [9]
+============================================================
+istant Hypertension Guideline
+============================================================
+
+============================================================
+Source [3]       File: [data/paper3.pdf]         Page: [4]
+============================================================
+R
+C
+Conﬁrm diagnosis of true resistant hypertension
+Figure 1. Diagnostic algorithm for a patient with suspected resistant hypertension. ABPM, ambulatory blood pressure monitoring; BP, blood
+pressure; HT, hypertension. *Three or more drugs, at optimally tolerated dosages
+============================================================
+
+You: what is CAV?
+==============================
+          Question
+==============================
+what is CAV?
+==============================
+
+==============================
+          Answer
+==============================
+CAV stands for cardiac allograft vasculopathy.
+==============================
+
+============================================================
+Source [1]       File: [data/paper1.pdf]         Page: [14]
+============================================================
+Values and preferences. Screening for CAV is typically
+performed annually, individualized to donor and recipientcharacteristics. An invasive strategy with intracoronaryimaging to visualize the vessel wall is preferred early post
+transplantation to improve sensitivity for detecting early
+CAV and for
+============================================================
+
+============================================================
+Source [2]       File: [data/paper1.pdf]         Page: [15]
+============================================================
+CMV, cytomegalovirus; CVD, cerebrovascular disease; EBV, Epstein Barr virus; PJP, Pneumocystis jirovecii pneumonia; PVD, peripheral vascular disease;
+QNAT, quantitative nucleic acid ampli ﬁ
+============================================================
+
+============================================================
+Source [3]       File: [data/paper1.pdf]         Page: [14]
+============================================================
+Statins and PSIs reduce the incidence of CAV.101,143,144
+Other pharmacologic treatments suggested to reduce CAV
+development include calcium antagonists, angiotensin con-verting enzyme inhibitors, and aspirin.145,146In randomized
+controlled studies, de novo PSI
+============================================================
+
+You: What is HTx?
+==============================
+          Question
+==============================
+What is HTx?
+==============================
+
+==============================
+          Answer
+==============================
+HTx stands for heart transplantation.
+==============================
+
+============================================================
+Source [1]       File: [data/paper1.pdf]         Page: [6]
+============================================================
+Weak Recommendation, Low-Quality Evidence).
+Values and preferences. HTx is feasible for highly
+selected patients with cardiac amyloidosis and non-
+advanced systemic disease. In conjunction with contem-
+porary chemotherapy regimens, outcomes post HTx forAL cardiac amyloidosis
+============================================================
+
+============================================================
+Source [2]       File: [data/paper1.pdf]         Page: [17]
+============================================================
+Caregivers. Caregivers of HTx recipients are vulnerable to
+the development of depressive, anxiety, and post-traumaticstress disorders181as well as declining physical functioning
+and increased pain.183Caregiver general health is a signi ﬁcant,
+independent predictor of
+============================================================
+
+============================================================
+Source [3]       File: [data/paper1.pdf]         Page: [6]
+============================================================
+x, 35% retransplantation within 30days of primary HTx), actuarial survival was signi ﬁcantly
+greater among primary HTx patients: 82% vs 59% at 1 year,
+67% vs 41% at 5 years, 54% vs 32%
+============================================================
+
+You: How to deal with the infection after HTx?
+==============================
+          Question
+==============================
+How to deal with the infection after HTx?
+==============================
+
+==============================
+          Answer
+==============================
+According to the provided context, monitoring for infectious complications is important after heart transplantation. However, specific measures to handle infection following heart transplantation are not mentioned.
+==============================
+
+============================================================
+Source [1]       File: [data/paper1.pdf]         Page: [13]
+============================================================
+o-myocardial biopsy. All patients with DSA should have optimization of maintenance immunosuppression and increased clinical surveillance (2 as-sessments of graft function 1-3 months apart).Chih et al. 347
+CCS/CCTN Heart Transplant Position Statement
+============================================================
+
+============================================================
+Source [2]       File: [data/paper1.pdf]         Page: [16]
+============================================================
+diabetes, hyperlipidemia, smoking and alcohol cessation are
+important for reducing vascular complications.171
+Infection monitoring after HTx. Infectious complications
+are a major cause of death, accounting for 14% of deaths
+during the initial 3 years and 11% thereafter.153
+
+============================================================
+
+============================================================
+Source [3]       File: [data/paper1.pdf]         Page: [19]
+============================================================
+
+82.Leech SH, Lopez-Cepero M, LeFor WM, et al. Management of the
+sensitized cardiac recipient: the use of plasmapheresis and intravenousimmunoglobulin. Clin Transplant 2006;20:476-84 .
+
+============================================================
+
+You: Does smoking and alchohol affect HTx?
+==============================
+          Question
+==============================
+Does smoking and alchohol affect HTx?
+==============================
+
+==============================
+          Answer
+==============================
+Smoking and alcohol consumption can have negative effects on heart transplantation (HTx). They are considered important factors to address in order to reduce vascular complications and increase the success of the transplantation. It is recommended for patients to quit smoking and alcohol consumption to improve their chances of a successful HTx.
+==============================
+
+============================================================
+Source [1]       File: [data/paper1.pdf]         Page: [16]
+============================================================
+diabetes, hyperlipidemia, smoking and alcohol cessation are
+important for reducing vascular complications.171
+Infection monitoring after HTx. Infectious complications
+are a major cause of death, accounting for 14% of deaths
+during the initial 3 years and 11% thereafter.153
+
+============================================================
+
+============================================================
+Source [2]       File: [data/paper1.pdf]         Page: [17]
+============================================================
+otopic hearttransplantation. J Heart Lung Transplant 2009;28:1150-7 .
+17.Weber DJ, Hashmi ZA, Gracon AS, et al. Recipient body mass index
+and age interact to impact survival after heart transplantation. ClinTransplant
+============================================================
+
+============================================================
+Source [3]       File: [data/paper1.pdf]         Page: [5]
+============================================================
+
+noninhalational cannabis use is not an absolute contrain-
+dication for HTx. Cannabis use disorder is a contraindi-
+cation to transplantation and specialist treatment programsare warranted. Transplantation may be reconsidered upon
+completion and successful abstinence for a minimum of
+============================================================
+
+You: What are the requirements of the HTx?
+==============================
+          Question
+==============================
+What are the requirements of the HTx?
+==============================
+
+==============================
+          Answer
+==============================
+Based on the given context, the exact requirements for heart transplantation are not mentioned. However, the Canadian Cardiovascular Society (CCS) and the Canadian Cardiac Transplant Network 
+have published position statements on heart transplantation, which likely outline the eligibility criteria and selection process for patients. To obtain the specific requirements, it would be necessary to refer to the CCS guidelines or consult a medical professional familiar with the current guidelines and criteria for heart transplantation.
+==============================
+
+============================================================
+Source [1]       File: [data/paper1.pdf]         Page: [17]
+============================================================
+otopic hearttransplantation. J Heart Lung Transplant 2009;28:1150-7 .
+17.Weber DJ, Hashmi ZA, Gracon AS, et al. Recipient body mass index
+and age interact to impact survival after heart transplantation. ClinTransplant
+============================================================
+
+============================================================
+Source [2]       File: [data/paper1.pdf]         Page: [1]
+============================================================
+Society Position Statement
+Canadian Cardiovascular Society/Canadian Cardiac
+Transplant Network Position Statement on Heart
+Transplantation: Patient Eligibility, Selection, and
+Post-Transplantation Care
+Primary Panel: Sharon Chih, MBBS, PhD (Co-chair),aMichael
+============================================================
+
+============================================================
+Source [3]       File: [data/paper1.pdf]         Page: [17]
+============================================================
+ MM, et al. The 2016 International
+Society for Heart Lung Transplantation listing criteria for heart trans-
+plantation: a 10-year update. J Heart Lung Transplant 2016;35:1-23 .10.Sze S, Pellicori P, Zhang J,
+============================================================
